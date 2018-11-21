@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.deps.json
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.json
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.dev.json
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csprojAssemblyReference.cache
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+C:\Users\User\Downloads\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb
