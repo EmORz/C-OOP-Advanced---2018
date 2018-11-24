@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Solid.Logger\\Solid.Logger\\Solid.Logger.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\02. CSharp-OOP-Advanced-SOID-Exercise\\Solid.Logger\\Solid.Logger\\Solid.Logger.csproj",
       "projectName": "Solid.Logger",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Solid.Logger\\Solid.Logger\\Solid.Logger.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\02. CSharp-OOP-Advanced-SOID-Exercise\\Solid.Logger\\Solid.Logger\\Solid.Logger.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Solid.Logger\\Solid.Logger\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\02. CSharp-OOP-Advanced-SOID-Exercise\\Solid.Logger\\Solid.Logger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

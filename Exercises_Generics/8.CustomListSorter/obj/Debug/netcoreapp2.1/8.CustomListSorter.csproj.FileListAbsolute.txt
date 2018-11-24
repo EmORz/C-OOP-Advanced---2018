@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\bin\Debug\netcoreapp2.1\8.CustomListSorter.deps.json
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\bin\Debug\netcoreapp2.1\8.CustomListSorter.runtimeconfig.json
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\bin\Debug\netcoreapp2.1\8.CustomListSorter.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\bin\Debug\netcoreapp2.1\8.CustomListSorter.dll
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\bin\Debug\netcoreapp2.1\8.CustomListSorter.pdb
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\obj\Debug\netcoreapp2.1\8.CustomListSorter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\obj\Debug\netcoreapp2.1\8.CustomListSorter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\obj\Debug\netcoreapp2.1\8.CustomListSorter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\obj\Debug\netcoreapp2.1\8.CustomListSorter.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\obj\Debug\netcoreapp2.1\8.CustomListSorter.dll
+C:\Users\User\source\repos\Exercises_Generics\8.CustomListSorter\obj\Debug\netcoreapp2.1\8.CustomListSorter.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\bin\Debug\netcoreapp2.1\9.CustomListIterator.deps.json
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\bin\Debug\netcoreapp2.1\9.CustomListIterator.runtimeconfig.json
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\bin\Debug\netcoreapp2.1\9.CustomListIterator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\bin\Debug\netcoreapp2.1\9.CustomListIterator.dll
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\bin\Debug\netcoreapp2.1\9.CustomListIterator.pdb
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\obj\Debug\netcoreapp2.1\9.CustomListIterator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\obj\Debug\netcoreapp2.1\9.CustomListIterator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\obj\Debug\netcoreapp2.1\9.CustomListIterator.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\obj\Debug\netcoreapp2.1\9.CustomListIterator.dll
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\obj\Debug\netcoreapp2.1\9.CustomListIterator.pdb
+C:\Users\User\source\repos\Exercises_Generics\9.CustomListIterator\obj\Debug\netcoreapp2.1\9.CustomListIterator.csprojAssemblyReference.cache

@@ -9,3 +9,14 @@ C:\Users\User\source\repos\Solid.Logger\Solid.Logger\bin\Debug\netcoreapp2.1\Sol
 C:\Users\User\source\repos\Solid.Logger\Solid.Logger\bin\Debug\netcoreapp2.1\Solid.Logger.pdb
 C:\Users\User\source\repos\Solid.Logger\Solid.Logger\obj\Debug\netcoreapp2.1\Solid.Logger.dll
 C:\Users\User\source\repos\Solid.Logger\Solid.Logger\obj\Debug\netcoreapp2.1\Solid.Logger.pdb
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\bin\Debug\netcoreapp2.1\Solid.Logger.deps.json
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\bin\Debug\netcoreapp2.1\Solid.Logger.runtimeconfig.json
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\bin\Debug\netcoreapp2.1\Solid.Logger.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\bin\Debug\netcoreapp2.1\Solid.Logger.dll
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\bin\Debug\netcoreapp2.1\Solid.Logger.pdb
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\obj\Debug\netcoreapp2.1\Solid.Logger.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\obj\Debug\netcoreapp2.1\Solid.Logger.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\obj\Debug\netcoreapp2.1\Solid.Logger.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\obj\Debug\netcoreapp2.1\Solid.Logger.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\obj\Debug\netcoreapp2.1\Solid.Logger.dll
+E:\C-OOP-Advanced---2018\02. CSharp-OOP-Advanced-SOID-Exercise\Solid.Logger\Solid.Logger\obj\Debug\netcoreapp2.1\Solid.Logger.pdb

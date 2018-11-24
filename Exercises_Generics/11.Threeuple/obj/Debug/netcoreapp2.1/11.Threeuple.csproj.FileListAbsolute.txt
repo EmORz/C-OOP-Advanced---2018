@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\bin\Debug\netcoreapp2.1\11.Threeuple.deps.json
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\bin\Debug\netcoreapp2.1\11.Threeuple.runtimeconfig.json
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\bin\Debug\netcoreapp2.1\11.Threeuple.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\bin\Debug\netcoreapp2.1\11.Threeuple.dll
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\bin\Debug\netcoreapp2.1\11.Threeuple.pdb
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\obj\Debug\netcoreapp2.1\11.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\obj\Debug\netcoreapp2.1\11.Threeuple.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\obj\Debug\netcoreapp2.1\11.Threeuple.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\obj\Debug\netcoreapp2.1\11.Threeuple.dll
+C:\Users\User\source\repos\Exercises_Generics\11.Threeuple\obj\Debug\netcoreapp2.1\11.Threeuple.pdb

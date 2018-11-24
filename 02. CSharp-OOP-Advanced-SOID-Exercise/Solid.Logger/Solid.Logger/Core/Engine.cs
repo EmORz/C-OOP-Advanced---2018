@@ -22,9 +22,6 @@ namespace Solid.Logger.Core
             {
                 string[] inputArgs = Console.ReadLine().Split();
                 this.commandInterpreter.AddAppender(inputArgs);
-
-
-
             }
 
             var input = Console.ReadLine();
@@ -32,12 +29,10 @@ namespace Solid.Logger.Core
             while (input!="END")
             {
                 var tokens = input.Split("|");
-
                 this.commandInterpreter.AddMessage(tokens);
-
-
                 input = Console.ReadLine();
             }
+            this.commandInterpreter.Print();
 
 
         }

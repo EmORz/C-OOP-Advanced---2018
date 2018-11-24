@@ -17,7 +17,7 @@ namespace Solid.Logger.Layouts.Factory
                 case "simplelayout":
                     return new SimpleLayout();
                 case "xmllayout":
-                    return new SimpleLayout();
+                    return new XmlLayout();
                 default:
                     throw  new ArgumentException("Invalid layout type!");
 

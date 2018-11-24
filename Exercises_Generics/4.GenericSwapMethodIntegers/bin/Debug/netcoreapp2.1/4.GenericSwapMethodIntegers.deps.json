@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "4.GenericSwapMethodIntegers/1.0.0": {
+        "dependencies": {
+          "3.GenericSwapMethodStrings": "1.0.0"
+        },
+        "runtime": {
+          "4.GenericSwapMethodIntegers.dll": {}
+        }
+      },
+      "3.GenericSwapMethodStrings/1.0.0": {
+        "runtime": {
+          "3.GenericSwapMethodStrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4.GenericSwapMethodIntegers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3.GenericSwapMethodStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

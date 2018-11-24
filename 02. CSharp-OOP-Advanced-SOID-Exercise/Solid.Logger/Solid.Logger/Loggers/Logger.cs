@@ -26,29 +26,29 @@ namespace Solid.Logger.Loggers
         }
         public void Error(string format, string errorMessage)
         {
-            AppendMessage(format,ReportLevel.Error, errorMessage);
+            AppendMessage(format,ReportLevel.ERROR, errorMessage);
         }
 
 
         public void Info(string format, string infoMessage)
         {
-            AppendMessage(format, ReportLevel.Info, infoMessage);
+            AppendMessage(format, ReportLevel.INFO, infoMessage);
         }
 
         public void Warning(string format, string infoMessage)
         {
-            AppendMessage(format, ReportLevel.Warning, infoMessage);
+            AppendMessage(format, ReportLevel.WARNING, infoMessage);
         }
 
 
         public void Fatal(string dateTime, string fatalMessage)
         {
-            AppendMessage(dateTime, ReportLevel.Fatal, fatalMessage);
+            AppendMessage(dateTime, ReportLevel.FATAL, fatalMessage);
         }
 
         public void Critical(string dateTime, string criticalMessage)
         {
-            AppendMessage(dateTime, ReportLevel.Critical, criticalMessage);
+            AppendMessage(dateTime, ReportLevel.CRITICAL, criticalMessage);
         }
 
 

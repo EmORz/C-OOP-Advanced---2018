@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.deps.json
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.dll
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.pdb
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.dll
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.pdb
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\3.GenericSwapMethodStrings.dll
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\3.GenericSwapMethodStrings.pdb
+C:\Users\User\source\repos\Exercises_Generics\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4.GenericSwapMethodIntegers.csproj.CopyComplete

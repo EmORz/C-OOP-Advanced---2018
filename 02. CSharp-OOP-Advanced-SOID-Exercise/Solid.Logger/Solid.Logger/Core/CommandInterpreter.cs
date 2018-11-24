@@ -30,7 +30,7 @@ namespace Solid.Logger.Core
         {
             var appenderType = args[0];
             var layoutType = args[1];
-            ReportLevel reportLevel = ReportLevel.Info;
+            ReportLevel reportLevel = ReportLevel.INFO;
 
             if (args.Length == 3)
             {
@@ -40,7 +40,7 @@ namespace Solid.Logger.Core
             ILayout layout = this.layoutFactory.CreateLayout(layoutType);
 
             IAppender appender = this.appenderFactory.CreateAppender(appenderType, layout );
-            appender.ReportLevel = reportLevel;
+            //appender.ReportLevel = reportLevel;
             appenders.Add(appender);
         }
 
@@ -54,6 +54,16 @@ namespace Solid.Logger.Core
             {
                 appender.Append(dateTime, reportLevel, message);
                 
+            }
+        }
+
+        public void Print()
+        {
+            Console.WriteLine("Logger info");
+
+            foreach (var appender in appenders)
+            {
+                Console.WriteLine(appender); 
             }
         }
     }

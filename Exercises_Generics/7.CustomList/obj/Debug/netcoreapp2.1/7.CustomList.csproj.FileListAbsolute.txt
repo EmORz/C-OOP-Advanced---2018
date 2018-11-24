@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\bin\Debug\netcoreapp2.1\7.CustomList.deps.json
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\bin\Debug\netcoreapp2.1\7.CustomList.runtimeconfig.json
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\bin\Debug\netcoreapp2.1\7.CustomList.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\bin\Debug\netcoreapp2.1\7.CustomList.dll
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\bin\Debug\netcoreapp2.1\7.CustomList.pdb
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\obj\Debug\netcoreapp2.1\7.CustomList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\obj\Debug\netcoreapp2.1\7.CustomList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\obj\Debug\netcoreapp2.1\7.CustomList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\obj\Debug\netcoreapp2.1\7.CustomList.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\obj\Debug\netcoreapp2.1\7.CustomList.dll
+C:\Users\User\source\repos\Exercises_Generics\7.CustomList\obj\Debug\netcoreapp2.1\7.CustomList.pdb

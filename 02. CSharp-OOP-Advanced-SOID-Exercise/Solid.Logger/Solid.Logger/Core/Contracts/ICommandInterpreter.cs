@@ -8,5 +8,7 @@ namespace Solid.Logger.Core.Contracts
     {
         void AddAppender(string[] args);
         void AddMessage(string[] args);
+
+        void Print();
     }
 }

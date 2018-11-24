@@ -20,7 +20,7 @@ namespace Solid.Logger.Appenders.Factory
                 case "consoleappender":
                     return  new ConsoleAppender(layout);
                 case "fileappender":
-                    return new Appender(layout, new LogFile());
+                    return new FileAppender(layout, new LogFile());
                 default:
                     throw  new ArgumentException("Invalid appender type!");
             }
