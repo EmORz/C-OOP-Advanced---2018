@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Solid.Logger.Layouts.Contracts;
-
-namespace Solid.Logger.Layouts.Factory.Contracts
+﻿namespace Solid.Logger.Layouts.Factory.Contracts
 {
+    using Solid.Logger.Layouts.Contracts;
+
     public interface ILayoutFactory
     {
         ILayout CreateLayout(string type);

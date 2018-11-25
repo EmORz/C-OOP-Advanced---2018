@@ -1,14 +1,12 @@
 ﻿
-
-using System;
-using Solid.Logger.Loggers.Contracts;
-using Solid.Logger.Loggers.Enum;
-
 namespace Solid.Logger.Appenders
 {
-    using Contracts;
+    using Loggers.Enum;
     using Solid.Logger.Layouts.Contracts;
+    using Solid.Logger.Loggers.Contracts;
+    using System;
     using System.IO;
+
 
     public class FileAppender : Appender
     {

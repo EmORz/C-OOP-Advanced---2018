@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Solid.Logger.Core.Contracts
+﻿namespace Solid.Logger.Core.Contracts
 {
     public interface ICommandInterpreter
     {

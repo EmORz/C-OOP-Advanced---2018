@@ -1,15 +1,8 @@
-﻿using Solid.Logger.Core;
-using Solid.Logger.Core.Contracts;
-using Solid.Logger.Loggers.Enum;
-
+﻿
 namespace Solid.Logger
 {
-    using Solid.Logger.Appenders;
-    using Solid.Logger.Appenders.Contracts;
-    using Solid.Logger.Layouts;
-    using Solid.Logger.Layouts.Contracts;
-    using Solid.Logger.Loggers.Contracts;
-    using Solid.Logger.Loggers;
+    using Core;
+    using Core.Contracts;
 
     public class StartUp
     {

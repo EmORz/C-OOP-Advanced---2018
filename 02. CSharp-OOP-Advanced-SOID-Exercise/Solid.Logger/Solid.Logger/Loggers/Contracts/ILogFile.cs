@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Solid.Logger.Loggers.Contracts
+﻿namespace Solid.Logger.Loggers.Contracts
 {
     public  interface ILogFile
     {

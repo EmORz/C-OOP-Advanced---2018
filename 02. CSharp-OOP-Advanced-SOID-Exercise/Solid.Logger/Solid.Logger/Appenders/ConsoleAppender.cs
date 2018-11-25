@@ -1,12 +1,9 @@
-﻿
-
-
-using System;
-
-namespace Solid.Logger.Appenders
+﻿namespace Solid.Logger.Appenders
 {
+
     using Layouts.Contracts;
     using Loggers.Enum;
+    using System;
 
     public class ConsoleAppender : Appender
     {

@@ -1,18 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Solid.Logger.Appenders.Contracts;
-using Solid.Logger.Appenders.Factory;
-using Solid.Logger.Appenders.Factory.Contracts;
-using Solid.Logger.Core.Contracts;
-using Solid.Logger.Layouts;
-using Solid.Logger.Layouts.Contracts;
-using Solid.Logger.Layouts.Factory;
-using Solid.Logger.Layouts.Factory.Contracts;
-using Solid.Logger.Loggers.Enum;
-
-namespace Solid.Logger.Core
+﻿namespace Solid.Logger.Core
 {
+    using Appenders.Factory;
+    using Contracts;
+    using Layouts.Factory;
+    using Loggers.Enum;
+    using Solid.Logger.Appenders.Contracts;
+    using Solid.Logger.Appenders.Factory.Contracts;
+    using Solid.Logger.Layouts.Contracts;
+    using Solid.Logger.Layouts.Factory.Contracts;
+    using System;
+    using System.Collections.Generic;
+
     public class CommandInterpreter:ICommandInterpreter
     {
         private ICollection<IAppender> appenders;
@@ -38,10 +36,9 @@ namespace Solid.Logger.Core
             }
 
             ILayout layout = this.layoutFactory.CreateLayout(layoutType);
-
             IAppender appender = this.appenderFactory.CreateAppender(appenderType, layout );
-            //appender.ReportLevel = reportLevel;
-            appenders.Add(appender);
+            appender.ReportLevel = reportLevel;
+            this.appenders.Add(appender);
         }
 
         public void AddMessage(string[] args)

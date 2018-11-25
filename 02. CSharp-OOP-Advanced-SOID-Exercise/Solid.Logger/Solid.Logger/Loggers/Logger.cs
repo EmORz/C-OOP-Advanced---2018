@@ -1,12 +1,10 @@
 ﻿
-using Solid.Logger.Appenders;
-using Solid.Logger.Loggers.Enum;
-
 namespace Solid.Logger.Loggers
 {
+    using Enum;
+
     using Contracts;
     using Solid.Logger.Appenders.Contracts;
-    using System;
 
     public class Logger : ILogger
     {

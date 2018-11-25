@@ -1,17 +1,15 @@
-﻿
-
-namespace Solid.Logger.Appenders
+﻿namespace Solid.Logger.Appenders
 {
-    using Solid.Logger.Appenders.Contracts;
+    using Contracts;
+    using Loggers.Enum;
     using Solid.Logger.Layouts.Contracts;
-    using Solid.Logger.Loggers.Enum;
 
     public abstract class Appender: IAppender
     {
 
         private readonly ILayout layout;
 
-        public Appender(ILayout layout)
+        protected Appender(ILayout layout)
         {
             this.layout = layout;
         }

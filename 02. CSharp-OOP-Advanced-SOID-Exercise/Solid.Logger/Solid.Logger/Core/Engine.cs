@@ -1,18 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Solid.Logger.Appenders.Contracts;
-using Solid.Logger.Core.Contracts;
-
+﻿
 namespace Solid.Logger.Core
 {
+    using Contracts;
+    using Solid.Logger.Appenders.Contracts;
+    using System;
+    using System.Collections.Generic;
+
     public class Engine:IEngine
     {
+        private ICollection<IAppender> appenders;
+
         private ICommandInterpreter commandInterpreter;
 
         public Engine(ICommandInterpreter commandInterpreter)
         {
-            this.commandInterpreter = new CommandInterpreter();
+            this.commandInterpreter = commandInterpreter;
+            this.appenders = new List<IAppender>();
         }
         public void Run()
         {
@@ -28,7 +31,7 @@ namespace Solid.Logger.Core
 
             while (input!="END")
             {
-                var tokens = input.Split("|");
+                var tokens = input.Split('|');
                 this.commandInterpreter.AddMessage(tokens);
                 input = Console.ReadLine();
             }
