@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\Library.deps.json
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\Library.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\Library.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\Library.dll
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\Library.pdb
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\Library.dll
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\Library.pdb
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\Library.csprojAssemblyReference.cache

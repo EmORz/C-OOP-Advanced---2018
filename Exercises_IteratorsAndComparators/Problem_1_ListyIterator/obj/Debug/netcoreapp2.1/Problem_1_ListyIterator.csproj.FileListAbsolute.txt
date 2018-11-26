@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\bin\Debug\netcoreapp2.1\Problem_1_ListyIterator.deps.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\bin\Debug\netcoreapp2.1\Problem_1_ListyIterator.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\bin\Debug\netcoreapp2.1\Problem_1_ListyIterator.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\bin\Debug\netcoreapp2.1\Problem_1_ListyIterator.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\bin\Debug\netcoreapp2.1\Problem_1_ListyIterator.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\obj\Debug\netcoreapp2.1\Problem_1_ListyIterator.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\obj\Debug\netcoreapp2.1\Problem_1_ListyIterator.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\obj\Debug\netcoreapp2.1\Problem_1_ListyIterator.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\obj\Debug\netcoreapp2.1\Problem_1_ListyIterator.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\obj\Debug\netcoreapp2.1\Problem_1_ListyIterator.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_1_ListyIterator\obj\Debug\netcoreapp2.1\Problem_1_ListyIterator.pdb

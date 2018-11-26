@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\obj\Debug\netcoreapp2.1\Problem_2_Collection.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\obj\Debug\netcoreapp2.1\Problem_2_Collection.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\obj\Debug\netcoreapp2.1\Problem_2_Collection.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\bin\Debug\netcoreapp2.1\Problem_2_Collection.deps.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\bin\Debug\netcoreapp2.1\Problem_2_Collection.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\bin\Debug\netcoreapp2.1\Problem_2_Collection.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\bin\Debug\netcoreapp2.1\Problem_2_Collection.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\bin\Debug\netcoreapp2.1\Problem_2_Collection.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\obj\Debug\netcoreapp2.1\Problem_2_Collection.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\obj\Debug\netcoreapp2.1\Problem_2_Collection.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_2_Collection\obj\Debug\netcoreapp2.1\Problem_2_Collection.csprojAssemblyReference.cache
