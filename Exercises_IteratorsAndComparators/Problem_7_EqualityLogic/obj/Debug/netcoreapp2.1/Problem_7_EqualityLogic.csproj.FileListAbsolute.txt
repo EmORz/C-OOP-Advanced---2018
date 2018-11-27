@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\bin\Debug\netcoreapp2.1\Problem_7_EqualityLogic.deps.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\bin\Debug\netcoreapp2.1\Problem_7_EqualityLogic.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\bin\Debug\netcoreapp2.1\Problem_7_EqualityLogic.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\bin\Debug\netcoreapp2.1\Problem_7_EqualityLogic.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\bin\Debug\netcoreapp2.1\Problem_7_EqualityLogic.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\obj\Debug\netcoreapp2.1\Problem_7_EqualityLogic.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\obj\Debug\netcoreapp2.1\Problem_7_EqualityLogic.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\obj\Debug\netcoreapp2.1\Problem_7_EqualityLogic.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\obj\Debug\netcoreapp2.1\Problem_7_EqualityLogic.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\obj\Debug\netcoreapp2.1\Problem_7_EqualityLogic.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_7_EqualityLogic\obj\Debug\netcoreapp2.1\Problem_7_EqualityLogic.pdb

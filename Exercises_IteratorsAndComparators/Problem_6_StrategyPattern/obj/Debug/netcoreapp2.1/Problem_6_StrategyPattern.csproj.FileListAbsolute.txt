@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\bin\Debug\netcoreapp2.1\Problem_6_StrategyPattern.deps.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\bin\Debug\netcoreapp2.1\Problem_6_StrategyPattern.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\bin\Debug\netcoreapp2.1\Problem_6_StrategyPattern.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\bin\Debug\netcoreapp2.1\Problem_6_StrategyPattern.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\bin\Debug\netcoreapp2.1\Problem_6_StrategyPattern.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\obj\Debug\netcoreapp2.1\Problem_6_StrategyPattern.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\obj\Debug\netcoreapp2.1\Problem_6_StrategyPattern.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\obj\Debug\netcoreapp2.1\Problem_6_StrategyPattern.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\obj\Debug\netcoreapp2.1\Problem_6_StrategyPattern.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\obj\Debug\netcoreapp2.1\Problem_6_StrategyPattern.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_6_StrategyPattern\obj\Debug\netcoreapp2.1\Problem_6_StrategyPattern.pdb

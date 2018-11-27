@@ -9,7 +9,6 @@ namespace Problem_2_Collection.Core
     {
         public void Run()
         {
-            //TODO add implementation
             ListyIterator<string> listyIterator = null;
 
             string input;

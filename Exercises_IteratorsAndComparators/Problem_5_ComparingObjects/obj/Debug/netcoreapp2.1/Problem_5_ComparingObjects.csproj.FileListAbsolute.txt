@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\bin\Debug\netcoreapp2.1\Problem_5_ComparingObjects.deps.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\bin\Debug\netcoreapp2.1\Problem_5_ComparingObjects.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\bin\Debug\netcoreapp2.1\Problem_5_ComparingObjects.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\bin\Debug\netcoreapp2.1\Problem_5_ComparingObjects.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\bin\Debug\netcoreapp2.1\Problem_5_ComparingObjects.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\obj\Debug\netcoreapp2.1\Problem_5_ComparingObjects.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\obj\Debug\netcoreapp2.1\Problem_5_ComparingObjects.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\obj\Debug\netcoreapp2.1\Problem_5_ComparingObjects.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\obj\Debug\netcoreapp2.1\Problem_5_ComparingObjects.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\obj\Debug\netcoreapp2.1\Problem_5_ComparingObjects.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_5_ComparingObjects\obj\Debug\netcoreapp2.1\Problem_5_ComparingObjects.pdb

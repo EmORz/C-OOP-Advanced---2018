@@ -1,0 +1,10 @@
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.deps.json
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.dll
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.pdb
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.dll
+E:\C-OOP-Advanced---2018\Lab_IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.pdb

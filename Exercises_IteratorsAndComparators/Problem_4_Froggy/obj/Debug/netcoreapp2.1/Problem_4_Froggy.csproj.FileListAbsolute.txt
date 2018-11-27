@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\bin\Debug\netcoreapp2.1\Problem_4_Froggy.deps.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\bin\Debug\netcoreapp2.1\Problem_4_Froggy.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\bin\Debug\netcoreapp2.1\Problem_4_Froggy.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\bin\Debug\netcoreapp2.1\Problem_4_Froggy.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\bin\Debug\netcoreapp2.1\Problem_4_Froggy.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\obj\Debug\netcoreapp2.1\Problem_4_Froggy.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\obj\Debug\netcoreapp2.1\Problem_4_Froggy.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\obj\Debug\netcoreapp2.1\Problem_4_Froggy.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\obj\Debug\netcoreapp2.1\Problem_4_Froggy.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\obj\Debug\netcoreapp2.1\Problem_4_Froggy.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_4_Froggy\obj\Debug\netcoreapp2.1\Problem_4_Froggy.csprojAssemblyReference.cache
