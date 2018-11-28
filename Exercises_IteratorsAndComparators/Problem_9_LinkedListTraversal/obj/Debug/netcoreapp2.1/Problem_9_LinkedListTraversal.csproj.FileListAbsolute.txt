@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\bin\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.deps.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\bin\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\bin\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\bin\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\bin\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\obj\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\obj\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\obj\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\obj\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\obj\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_9_LinkedListTraversal\obj\Debug\netcoreapp2.1\Problem_9_LinkedListTraversal.pdb

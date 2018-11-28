@@ -22,6 +22,8 @@ namespace Solid.Logger
 
 
 
+
+
             //var simpleLayout = new SimpleLayout();
             //var consoleAppender = new ConsoleAppender(simpleLayout);
 

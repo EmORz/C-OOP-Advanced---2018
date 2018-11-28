@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\bin\Debug\netcoreapp2.1\Problem_8_PetClinics.deps.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\bin\Debug\netcoreapp2.1\Problem_8_PetClinics.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\bin\Debug\netcoreapp2.1\Problem_8_PetClinics.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\bin\Debug\netcoreapp2.1\Problem_8_PetClinics.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\bin\Debug\netcoreapp2.1\Problem_8_PetClinics.pdb
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\obj\Debug\netcoreapp2.1\Problem_8_PetClinics.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\obj\Debug\netcoreapp2.1\Problem_8_PetClinics.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\obj\Debug\netcoreapp2.1\Problem_8_PetClinics.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\obj\Debug\netcoreapp2.1\Problem_8_PetClinics.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\obj\Debug\netcoreapp2.1\Problem_8_PetClinics.dll
+E:\C-OOP-Advanced---2018\Exercises_IteratorsAndComparators\Problem_8_PetClinics\obj\Debug\netcoreapp2.1\Problem_8_PetClinics.pdb
