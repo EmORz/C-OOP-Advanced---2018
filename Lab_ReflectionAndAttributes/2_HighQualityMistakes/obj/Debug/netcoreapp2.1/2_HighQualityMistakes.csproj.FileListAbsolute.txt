@@ -1,0 +1,10 @@
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\bin\Debug\netcoreapp2.1\2_HighQualityMistakes.deps.json
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\bin\Debug\netcoreapp2.1\2_HighQualityMistakes.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\bin\Debug\netcoreapp2.1\2_HighQualityMistakes.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\bin\Debug\netcoreapp2.1\2_HighQualityMistakes.dll
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\bin\Debug\netcoreapp2.1\2_HighQualityMistakes.pdb
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\obj\Debug\netcoreapp2.1\2_HighQualityMistakes.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\obj\Debug\netcoreapp2.1\2_HighQualityMistakes.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\obj\Debug\netcoreapp2.1\2_HighQualityMistakes.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\obj\Debug\netcoreapp2.1\2_HighQualityMistakes.dll
+E:\C-OOP-Advanced---2018\Lab_ReflectionAndAttributes\2_HighQualityMistakes\obj\Debug\netcoreapp2.1\2_HighQualityMistakes.pdb
