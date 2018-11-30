@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.deps.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.dll
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.pdb
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.dll
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.pdb
