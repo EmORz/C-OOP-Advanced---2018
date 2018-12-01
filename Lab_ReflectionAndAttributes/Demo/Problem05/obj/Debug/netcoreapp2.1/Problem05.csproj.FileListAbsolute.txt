@@ -1,0 +1,10 @@
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\bin\Debug\netcoreapp2.1\Problem05.deps.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\bin\Debug\netcoreapp2.1\Problem05.runtimeconfig.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\bin\Debug\netcoreapp2.1\Problem05.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\bin\Debug\netcoreapp2.1\Problem05.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\bin\Debug\netcoreapp2.1\Problem05.pdb
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\obj\Debug\netcoreapp2.1\Problem05.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\obj\Debug\netcoreapp2.1\Problem05.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\obj\Debug\netcoreapp2.1\Problem05.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\obj\Debug\netcoreapp2.1\Problem05.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem05\obj\Debug\netcoreapp2.1\Problem05.pdb

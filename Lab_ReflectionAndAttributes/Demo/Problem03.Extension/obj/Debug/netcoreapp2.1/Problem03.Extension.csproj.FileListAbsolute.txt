@@ -1,0 +1,8 @@
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03.Extension\bin\Debug\netcoreapp2.1\Problem03.Extension.deps.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03.Extension\bin\Debug\netcoreapp2.1\Problem03.Extension.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03.Extension\bin\Debug\netcoreapp2.1\Problem03.Extension.pdb
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03.Extension\obj\Debug\netcoreapp2.1\Problem03.Extension.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03.Extension\obj\Debug\netcoreapp2.1\Problem03.Extension.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03.Extension\obj\Debug\netcoreapp2.1\Problem03.Extension.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03.Extension\obj\Debug\netcoreapp2.1\Problem03.Extension.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03.Extension\obj\Debug\netcoreapp2.1\Problem03.Extension.pdb

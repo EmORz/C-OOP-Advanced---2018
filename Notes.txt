@@ -1,0 +1,128 @@
+         var assembly = Assembly.LoadFile(@"C:\Users\Stoyan\Desktop\Demo\MyCrazyApp.dll");
+
+            //Find all classes
+            var allTypes = assembly.GetTypes();
+
+            foreach (var currentType in allTypes)
+            {
+                Console.WriteLine(currentType.Name);
+
+                foreach (var propertyInfo in currentType.GetProperties())
+                {
+                    Console.WriteLine(propertyInfo.Name);
+                }
+
+                foreach (var methodInfo in currentType.GetMethods())
+                {
+                    Console.WriteLine(methodInfo.Name);
+                }
+            }
+  
+            //Create instance
+
+            //Invoke method
+
+
+..................
+  public class CommandInterpreter : ICommandInterpreter
+    {
+        public string Read(string[] inputArgs)
+        {
+            string commandName = inputArgs[0];
+
+            var type = Assembly.GetExecutingAssembly().GetTypes().FirstOrDefault(x => x.Name == commandName);
+
+            var instance = Activator.CreateInstance(type);
+            var result = ((ICommand)instance).Execute();
+
+            return result;
+        }
+    }
+.............................
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("1. Problem03.StartUp Calling Assembly: " + Assembly.GetCallingAssembly().FullName);
+            Console.WriteLine("2. Problem03.StartUp Executing Assembly: " + Assembly.GetExecutingAssembly().FullName);
+
+            Console.WriteLine(new Stoyan().GetCrazy());
+        }
+    public class Stoyan
+    {
+        public string GetCrazy()
+        {
+            return "3. Problem03.Extensions.Stoyan Executing Assembly: " + Assembly.GetExecutingAssembly().FullName + "\n" +
+                   "4. Problem03.Extensions.Stoyan Calling Assembly: " + Assembly.GetCallingAssembly().FullName;
+        }
+    }
+.........................................
+        public static void Main(string[] args)
+        {
+            Type type = typeof(Rich);
+            //var type = Type.GetType("Problem04.Rich");
+            //var type = Assembly.GetExecutingAssembly().GetTypes().FirstOrDefault(x => x.Name ==
+            //"Rich");
+
+            //var instance = Activator.CreateInstance(type);
+            var instance = Activator.CreateInstance(type, new object[] { "new address"});
+
+            var firstMethod = type.GetMethod("Hello", new Type[] { typeof(string)});
+            var constructor = type.GetConstructor(new Type[] { typeof(string)});
+            //not needed BindingFlags
+            var property = type.GetProperty("Age", BindingFlags.Public | BindingFlags.Instance);
+
+            var myField = type.GetField("publicName");
+            myField.SetValue(instance, "Ime");
+            var getFieldValue = myField.GetValue(instance);
+
+            var result = firstMethod.Invoke(instance, new object[] { "Stoyan" });
+
+            Console.WriteLine(result);
+.................................................
+            var lionType = Type.GetType("Problem05.Animal.Lion");
+
+            var interfaces = lionType.BaseType.GetProperties();
+
+            foreach (var interfaceInfo in interfaces)
+            {
+                Console.WriteLine(interfaceInfo.Name);
+            }
+.......................................................
+[AttributeUsage(AttributeTargets.Class | AttributeTargets.Method
+    , AllowMultiple = true)]
+public class SoftUniAttribute : Attribute
+{
+    public SoftUniAttribute(string name)
+    {
+        this.Name = name;
+    }
+
+    public string Name { get; }
+}
+[SoftUni("Ventsi")]
+public class StartUp
+{
+    [SoftUni("Gosho")]
+    public static void Main(string[] args)
+    {
+        var tracker = new Tracker();
+        tracker.PrintMethodsByAuthor();
+    }
+}
+
+    public void PrintMethodsByAuthor()
+    {
+        var type = typeof(StartUp);
+
+        var methods = type.GetMethods(BindingFlags.Public | BindingFlags.Static | BindingFlags.Instance);
+
+        foreach (var methodInfo in methods)
+        {
+            var customeAttribute = methodInfo.GetCustomAttribute<SoftUniAttribute>();
+            
+            if (customeAttribute != null)
+            {
+                Console.WriteLine($"{methodInfo.Name} is written by {customeAttribute.Name}");
+            }
+        }
+    }
+..............................................

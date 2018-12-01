@@ -1,0 +1,14 @@
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\bin\Debug\netcoreapp2.1\Problem03.deps.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\bin\Debug\netcoreapp2.1\Problem03.runtimeconfig.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\bin\Debug\netcoreapp2.1\Problem03.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\bin\Debug\netcoreapp2.1\Problem03.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\bin\Debug\netcoreapp2.1\Problem03.pdb
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\obj\Debug\netcoreapp2.1\Problem03.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\obj\Debug\netcoreapp2.1\Problem03.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\obj\Debug\netcoreapp2.1\Problem03.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\obj\Debug\netcoreapp2.1\Problem03.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\obj\Debug\netcoreapp2.1\Problem03.pdb
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\obj\Debug\netcoreapp2.1\Problem03.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\bin\Debug\netcoreapp2.1\Problem03.Extension.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\bin\Debug\netcoreapp2.1\Problem03.Extension.pdb
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem03\obj\Debug\netcoreapp2.1\Problem03.csproj.CopyComplete

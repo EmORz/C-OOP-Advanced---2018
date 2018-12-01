@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Problem02/1.0.0": {
+        "dependencies": {
+          "Problem03": "1.0.0"
+        },
+        "runtime": {
+          "Problem02.dll": {}
+        }
+      },
+      "Problem03/1.0.0": {
+        "dependencies": {
+          "Problem03.Extension": "1.0.0"
+        },
+        "runtime": {
+          "Problem03.dll": {}
+        }
+      },
+      "Problem03.Extension/1.0.0": {
+        "runtime": {
+          "Problem03.Extension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem03.Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

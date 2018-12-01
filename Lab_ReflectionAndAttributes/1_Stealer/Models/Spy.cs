@@ -5,6 +5,24 @@ using System.Text;
 
 public class Spy
 {
+
+    public string CollectGettersAndSetters(string investigate)
+    {
+        StringBuilder sb = new StringBuilder();
+        Type classType = Type.GetType(investigate);
+        MethodInfo[] info = classType.GetMethods(BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+
+        foreach (var methodInfo in info.Where(x => x.Name.StartsWith("get")))
+        {
+            sb.AppendLine($"{methodInfo.Name} will return {methodInfo.ReturnType}");
+        }
+
+        foreach (var methodInfo in info.Where(x => x.Name.StartsWith("set")))
+        {
+            sb.AppendLine($"{methodInfo.Name} will set field of {methodInfo.GetParameters().First().ParameterType}");
+        }
+        return sb.ToString().Trim();
+    }
     public string RevealPrivateMethods(string className)
     {
         StringBuilder sb = new StringBuilder();
@@ -19,6 +37,8 @@ public class Spy
         var result = sb.ToString().Trim();
         return result;
     }
+
+
     public string StealFieldInfo(string investigateClass, params string[] requestedFields)
     {
         Type classType = Type.GetType(investigateClass);
@@ -45,6 +65,8 @@ public class Spy
 
         return sb.ToString().Trim();
     }
+
+
 
     public string AnalyzeAcessModifiers(string investigateClass)
     {

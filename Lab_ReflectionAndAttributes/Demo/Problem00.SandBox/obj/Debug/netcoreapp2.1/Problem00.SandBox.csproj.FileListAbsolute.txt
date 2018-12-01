@@ -1,0 +1,11 @@
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\bin\Debug\netcoreapp2.1\Problem00.SandBox.deps.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\bin\Debug\netcoreapp2.1\Problem00.SandBox.runtimeconfig.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\bin\Debug\netcoreapp2.1\Problem00.SandBox.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\bin\Debug\netcoreapp2.1\Problem00.SandBox.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\bin\Debug\netcoreapp2.1\Problem00.SandBox.pdb
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\obj\Debug\netcoreapp2.1\Problem00.SandBox.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\obj\Debug\netcoreapp2.1\Problem00.SandBox.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\obj\Debug\netcoreapp2.1\Problem00.SandBox.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\obj\Debug\netcoreapp2.1\Problem00.SandBox.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\obj\Debug\netcoreapp2.1\Problem00.SandBox.dll
+C:\Users\Stoyan\source\repos\ReflectionDemo\Problem00.SandBox\obj\Debug\netcoreapp2.1\Problem00.SandBox.pdb

@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\bin\Debug\netcoreapp2.1\Problem7InfernoInfinity.deps.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\bin\Debug\netcoreapp2.1\Problem7InfernoInfinity.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\bin\Debug\netcoreapp2.1\Problem7InfernoInfinity.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\bin\Debug\netcoreapp2.1\Problem7InfernoInfinity.dll
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\bin\Debug\netcoreapp2.1\Problem7InfernoInfinity.pdb
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\obj\Debug\netcoreapp2.1\Problem7InfernoInfinity.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\obj\Debug\netcoreapp2.1\Problem7InfernoInfinity.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\obj\Debug\netcoreapp2.1\Problem7InfernoInfinity.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\obj\Debug\netcoreapp2.1\Problem7InfernoInfinity.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\obj\Debug\netcoreapp2.1\Problem7InfernoInfinity.dll
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem7InfernoInfinity\obj\Debug\netcoreapp2.1\Problem7InfernoInfinity.pdb
