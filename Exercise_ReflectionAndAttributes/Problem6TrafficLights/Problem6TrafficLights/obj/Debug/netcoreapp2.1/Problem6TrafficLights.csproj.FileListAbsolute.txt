@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\bin\Debug\netcoreapp2.1\Problem6TrafficLights.deps.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\bin\Debug\netcoreapp2.1\Problem6TrafficLights.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\bin\Debug\netcoreapp2.1\Problem6TrafficLights.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\bin\Debug\netcoreapp2.1\Problem6TrafficLights.dll
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\bin\Debug\netcoreapp2.1\Problem6TrafficLights.pdb
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\obj\Debug\netcoreapp2.1\Problem6TrafficLights.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\obj\Debug\netcoreapp2.1\Problem6TrafficLights.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\obj\Debug\netcoreapp2.1\Problem6TrafficLights.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\obj\Debug\netcoreapp2.1\Problem6TrafficLights.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\obj\Debug\netcoreapp2.1\Problem6TrafficLights.dll
+E:\C-OOP-Advanced---2018\Exercise_ReflectionAndAttributes\Problem6TrafficLights\Problem6TrafficLights\obj\Debug\netcoreapp2.1\Problem6TrafficLights.pdb

@@ -1,9 +1,11 @@
-﻿[Class("Pesho", 3, "Used for C# OOP Advanced Course - Enumerations and Attributes.", "Pesho", "Svetlio")]
-public class Weapon
+﻿namespace CustomClassAttributee
 {
-    protected Weapon()
+    [Class("Pesho", "Used for C# OOP Advanced Course - Enumerations and Attributes.", 3, "Pesho", "Svetlio")]
+    public abstract class Weapon
     {
 
     }
+
 }
+
 

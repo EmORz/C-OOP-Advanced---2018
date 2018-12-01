@@ -1,23 +1,29 @@
-﻿using System;
-
-
-[AttributeUsage(AttributeTargets.Class)]
-public class ClassAttribute : Attribute
+﻿namespace CustomClassAttributee
 {
-    
-    public ClassAttribute(string author, int revision, string description, params string[] reviewers)
+    using System;
+
+    [AttributeUsage(AttributeTargets.Class)]
+    public class ClassAttribute : Attribute
     {
-        this.Author = author;
-        this.Revision = revision;
-        this.Description = description;
-        this.Reviewers = reviewers;
+
+        public ClassAttribute(string author, string description, int revision, params string[] reviewers)
+        {
+            this.Author = author;
+            this.Revision = revision;
+            this.Description = description;
+            this.Reviewers = reviewers;
+        }
+
+        public string Author { get; private set; }
+
+        public int Revision { get; private set; }
+
+        public string Description { get; private set; }
+
+        public string[] Reviewers { get; private set; }
     }
 
-    public string Author { get; private set; }
-
-    public int Revision { get; private set; }
-
-    public string Description { get; private set; }
-
-    public string[] Reviewers { get; private set; }
 }
+
+
+
