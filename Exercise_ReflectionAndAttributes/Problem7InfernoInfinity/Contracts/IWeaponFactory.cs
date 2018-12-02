@@ -1,7 +1,5 @@
-﻿namespace Problem7InfernoInfinity.Contracts
+﻿public interface IWeaponFactory
 {
-    public interface IWeaponFactory
-    {
-        IWeapon CreateWeapon(string weaponRarity, string weaponType, string name);
-    }
+    IWeapon CreateWeapon(string weaponRarity, string weaponType, string name);
 }
+

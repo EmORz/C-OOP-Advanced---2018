@@ -1,11 +1,9 @@
-﻿namespace Problem7InfernoInfinity.Contracts
+﻿
+public interface IGem
 {
-    public interface IGem
-    {
-        int Strenght { get; }
+    int Strenght { get; }
 
-        int Agility { get; }
+    int Agility { get; }
 
-        int Vitality { get; }
-    }
+    int Vitality { get; }
 }

@@ -1,7 +1,6 @@
-﻿namespace Problem7InfernoInfinity.Contracts
+﻿
+public interface IRunnable
 {
-    public interface IRunnable
-    {
-        void Run();
-    }
+    void Run();
 }
+

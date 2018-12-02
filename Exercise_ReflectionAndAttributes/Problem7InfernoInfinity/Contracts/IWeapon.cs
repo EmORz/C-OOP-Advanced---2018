@@ -1,26 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
-namespace Problem7InfernoInfinity.Contracts
+public interface IWeapon
 {
-    public interface IWeapon
-    {
-        string Name { get; }
+    string Name { get; }
 
-        int MinDamage { get; }
+    int MinDamage { get; }
 
-        int MaxDamage { get; }
+    int MaxDamage { get; }
 
-        int BaseMinDamage { get; }
+    int BaseMinDamage { get; }
 
-        int BaseMaxDamage { get; }
+    int BaseMaxDamage { get; }
 
 
-        void AddGem(int index, IGem gem);
+    void AddGem(int index, IGem gem);
 
-        void RemoveGem(int index);
+    void RemoveGem(int index);
 
-        IReadOnlyCollection<IGem> Slots { get; }
-    }
+    IReadOnlyCollection<IGem> Slots { get; }
 }
+

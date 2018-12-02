@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Problem7InfernoInfinity.Models.Enum;
-
-namespace Problem7InfernoInfinity.Contracts
+﻿public interface IRareWeapon
 {
-    public interface IRareWeapon
-    {
-        WeaponRarity Rarity { get; }
-    }
+    WeaponRarity Rarity { get; }
 }
+

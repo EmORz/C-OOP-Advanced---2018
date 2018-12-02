@@ -1,20 +1,16 @@
-﻿using Problem7InfernoInfinity.Contracts;
-
-namespace Problem7InfernoInfinity.Core.Commands
+﻿public class RemoveCommand : Command
 {
-    public class RemoveCommand: Command
+    private IRepository repository;
+    public RemoveCommand(string[] data) : base(data)
     {
-        private IRepository repository;
-        public RemoveCommand(string[] data) : base(data)
-        {
-        }
+    }
 
-        public override void Execute()
-        {
-            string name = this.Data[0];
-            int index = int.Parse(this.Data[1]);
+    public override void Execute()
+    {
+        string name = this.Data[0];
+        int index = int.Parse(this.Data[1]);
 
-            this.repository.RemoveGem(name, index);
-        }
+        this.repository.RemoveGem(name, index);
     }
 }
+

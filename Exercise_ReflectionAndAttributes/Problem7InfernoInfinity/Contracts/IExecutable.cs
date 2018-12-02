@@ -1,7 +1,6 @@
-﻿namespace Problem7InfernoInfinity.Contracts
+﻿
+public interface IExecutable
 {
-    public interface IExecutable
-    {
-        void Execute();
-    }
+    void Execute();
 }
+

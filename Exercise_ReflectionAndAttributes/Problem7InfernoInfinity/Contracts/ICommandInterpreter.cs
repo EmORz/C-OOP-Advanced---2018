@@ -1,7 +1,6 @@
-﻿namespace Problem7InfernoInfinity.Contracts
+﻿
+public interface ICommandInterpreter
 {
-    public interface ICommandInterpreter
-    {
-        IExecutable InterpretCommand(string commandName, string[] data);
-    }
+    IExecutable InterpretCommand(string commandName, string[] data);
 }
+
