@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.deps.json
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.json
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.dev.json
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.dll
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
+C:\Users\User\source\repos\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb

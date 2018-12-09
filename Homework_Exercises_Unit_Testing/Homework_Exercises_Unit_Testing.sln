@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageMaster", "StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMaster\StorageMaster.csproj", "{0E617BEC-DF2D-4450-A336-4C09D386C9CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageMester.BusinessLogic.Tests", "StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.BusinessLogic.Tests\StorageMester.BusinessLogic.Tests.csproj", "{5A72D983-90F2-4F25-8D2F-16778F049E68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageMester.Tests.Structure", "StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\StorageMester.Tests.Structure.csproj", "{31C6EAEE-A6D8-4D11-941B-070A119AA36D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "IntegerDatabase\Database\Database.csproj", "{10DB9A17-5BA7-4983-BB97-1786AA5F60F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseExtended", "IntegerDatabase\DatabaseExtended\DatabaseExtended.csproj", "{78148449-3FDF-4F40-9D4D-3A426BE32013}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseExtendedTests", "IntegerDatabase\DatabaseExtendedTests\DatabaseExtendedTests.csproj", "{BA395EEB-F046-4DC9-95EB-5DB25E5D82B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseTests", "IntegerDatabase\DatabaseTests\DatabaseTests.csproj", "{BF0BF979-2FCE-47E5-92BD-4229470CEB9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListTests", "05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\LinkedListTests.csproj", "{7AA38306-62DF-41CF-A8F1-FB03F9B08B78}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomLinkedList", "05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\CustomLinkedList\CustomLinkedList.csproj", "{75FA6842-084E-4B74-86D4-829E1E143878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E617BEC-DF2D-4450-A336-4C09D386C9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E617BEC-DF2D-4450-A336-4C09D386C9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E617BEC-DF2D-4450-A336-4C09D386C9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E617BEC-DF2D-4450-A336-4C09D386C9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A72D983-90F2-4F25-8D2F-16778F049E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A72D983-90F2-4F25-8D2F-16778F049E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A72D983-90F2-4F25-8D2F-16778F049E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A72D983-90F2-4F25-8D2F-16778F049E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C6EAEE-A6D8-4D11-941B-070A119AA36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C6EAEE-A6D8-4D11-941B-070A119AA36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C6EAEE-A6D8-4D11-941B-070A119AA36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C6EAEE-A6D8-4D11-941B-070A119AA36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DB9A17-5BA7-4983-BB97-1786AA5F60F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DB9A17-5BA7-4983-BB97-1786AA5F60F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DB9A17-5BA7-4983-BB97-1786AA5F60F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DB9A17-5BA7-4983-BB97-1786AA5F60F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78148449-3FDF-4F40-9D4D-3A426BE32013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78148449-3FDF-4F40-9D4D-3A426BE32013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78148449-3FDF-4F40-9D4D-3A426BE32013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78148449-3FDF-4F40-9D4D-3A426BE32013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA395EEB-F046-4DC9-95EB-5DB25E5D82B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA395EEB-F046-4DC9-95EB-5DB25E5D82B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA395EEB-F046-4DC9-95EB-5DB25E5D82B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA395EEB-F046-4DC9-95EB-5DB25E5D82B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0BF979-2FCE-47E5-92BD-4229470CEB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0BF979-2FCE-47E5-92BD-4229470CEB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0BF979-2FCE-47E5-92BD-4229470CEB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0BF979-2FCE-47E5-92BD-4229470CEB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA38306-62DF-41CF-A8F1-FB03F9B08B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA38306-62DF-41CF-A8F1-FB03F9B08B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA38306-62DF-41CF-A8F1-FB03F9B08B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA38306-62DF-41CF-A8F1-FB03F9B08B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FA6842-084E-4B74-86D4-829E1E143878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FA6842-084E-4B74-86D4-829E1E143878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FA6842-084E-4B74-86D4-829E1E143878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FA6842-084E-4B74-86D4-829E1E143878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21E3225E-73E7-47A0-9D9B-E45C892EBA23}
+	EndGlobalSection
+EndGlobal
