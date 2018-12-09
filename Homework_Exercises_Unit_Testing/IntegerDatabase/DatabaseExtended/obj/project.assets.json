@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseExtended\\DatabaseExtended.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseExtended\\DatabaseExtended.csproj",
       "projectName": "DatabaseExtended",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseExtended\\DatabaseExtended.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseExtended\\DatabaseExtended.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseExtended\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseExtended\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

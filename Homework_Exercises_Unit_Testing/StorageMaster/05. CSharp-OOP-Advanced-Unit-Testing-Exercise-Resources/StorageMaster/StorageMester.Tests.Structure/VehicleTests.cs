@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using NUnit.Framework.Internal;
 using StorageMaster;
 using StorageMaster.Entities.Products;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
 
 namespace StorageMester.Tests.Structure
 {
@@ -69,7 +69,6 @@ namespace StorageMester.Tests.Structure
             expectedProperties.Add("Trunk", typeof(IReadOnlyCollection<Product>));
             expectedProperties.Add("IsFull", typeof(bool));
             expectedProperties.Add("IsEmpty", typeof(bool));
-            /*new[] { "Capacity", "Trunk", "IsFull", "IsEmpty" };*/
 
             foreach (var actualProperty in actualProperties)
             {

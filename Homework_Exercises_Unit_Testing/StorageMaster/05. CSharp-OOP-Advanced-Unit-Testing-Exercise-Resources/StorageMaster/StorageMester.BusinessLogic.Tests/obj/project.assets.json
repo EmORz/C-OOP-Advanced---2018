@@ -5775,11 +5775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMester.BusinessLogic.Tests\\StorageMester.BusinessLogic.Tests.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMester.BusinessLogic.Tests\\StorageMester.BusinessLogic.Tests.csproj",
       "projectName": "StorageMester.BusinessLogic.Tests",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMester.BusinessLogic.Tests\\StorageMester.BusinessLogic.Tests.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMester.BusinessLogic.Tests\\StorageMester.BusinessLogic.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMester.BusinessLogic.Tests\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMester.BusinessLogic.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5798,8 +5798,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMaster\\StorageMaster.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMaster\\StorageMaster.csproj"
+            "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMaster\\StorageMaster.csproj": {
+              "projectPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\StorageMaster\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\StorageMaster\\StorageMaster\\StorageMaster.csproj"
             }
           }
         }

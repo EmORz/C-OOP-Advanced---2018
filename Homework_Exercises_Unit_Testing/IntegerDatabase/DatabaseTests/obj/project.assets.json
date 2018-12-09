@@ -5775,11 +5775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseTests\\DatabaseTests.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseTests\\DatabaseTests.csproj",
       "projectName": "DatabaseTests",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseTests\\DatabaseTests.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseTests\\DatabaseTests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseTests\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\DatabaseTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5798,8 +5798,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\Database\\Database.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\Database\\Database.csproj"
+            "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\Database\\Database.csproj": {
+              "projectPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\IntegerDatabase\\Database\\Database.csproj"
             }
           }
         }

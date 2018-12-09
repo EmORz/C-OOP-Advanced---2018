@@ -5772,11 +5772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\LinkedListTests\\LinkedListTests.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\LinkedListTests\\LinkedListTests.csproj",
       "projectName": "LinkedListTests",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\LinkedListTests\\LinkedListTests.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\LinkedListTests\\LinkedListTests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\LinkedListTests\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\LinkedListTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5795,8 +5795,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\CustomLinkedList\\CustomLinkedList.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\CustomLinkedList\\CustomLinkedList.csproj"
+            "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\CustomLinkedList\\CustomLinkedList.csproj": {
+              "projectPath": "E:\\C-OOP-Advanced---2018\\Homework_Exercises_Unit_Testing\\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\\CustomLinkedList\\CustomLinkedList\\CustomLinkedList.csproj"
             }
           }
         }
