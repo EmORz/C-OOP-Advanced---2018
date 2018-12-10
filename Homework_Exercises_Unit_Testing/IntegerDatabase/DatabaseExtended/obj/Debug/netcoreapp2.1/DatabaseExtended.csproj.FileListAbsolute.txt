@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\IntegerDatabase\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

@@ -1,0 +1,17 @@
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.deps.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.csproj.CopyComplete
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.pdb

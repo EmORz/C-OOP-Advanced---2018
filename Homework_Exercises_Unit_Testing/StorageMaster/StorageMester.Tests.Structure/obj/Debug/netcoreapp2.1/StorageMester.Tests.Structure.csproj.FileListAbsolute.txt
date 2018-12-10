@@ -1,0 +1,34 @@
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.deps.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CopyComplete
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.deps.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CopyComplete
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb

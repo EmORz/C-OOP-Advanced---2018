@@ -1,0 +1,34 @@
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.deps.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\CustomLinkedList.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\bin\Debug\netcoreapp2.1\CustomLinkedList.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.csproj.CopyComplete
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\05. CSharp-OOP-Advanced-Unit-Testing-Exercise-Resources\CustomLinkedList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.deps.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.runtimeconfig.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\LinkedListTests.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\CustomLinkedList.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\bin\Debug\netcoreapp2.1\CustomLinkedList.pdb
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.csproj.CopyComplete
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.dll
+E:\C-OOP-Advanced---2018\Homework_Exercises_Unit_Testing\CustomLinkList\LinkedListTests\obj\Debug\netcoreapp2.1\LinkedListTests.pdb
