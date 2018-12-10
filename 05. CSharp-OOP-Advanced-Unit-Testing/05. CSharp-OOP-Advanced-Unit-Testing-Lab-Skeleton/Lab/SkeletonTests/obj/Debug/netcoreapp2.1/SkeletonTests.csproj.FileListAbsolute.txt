@@ -1,0 +1,5 @@
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\SkeletonTests\bin\Debug\netcoreapp2.1\SkeletonTests.deps.json
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\SkeletonTests\bin\Debug\netcoreapp2.1\SkeletonTests.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\SkeletonTests\obj\Debug\netcoreapp2.1\SkeletonTests.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\SkeletonTests\obj\Debug\netcoreapp2.1\SkeletonTests.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\SkeletonTests\obj\Debug\netcoreapp2.1\SkeletonTests.AssemblyInfo.cs

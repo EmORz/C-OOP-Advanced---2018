@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\Submission_9468939\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\User\Downloads\Submission_9468939\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\User\Downloads\Submission_9468939\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\User\Downloads\Submission_9468939\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\User\Downloads\Submission_9468939\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\User\Downloads\Submission_9468939\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Submission_9468939\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Submission_9468939\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Submission_9468939\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\User\Downloads\Submission_9468939\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\User\Downloads\Submission_9468939\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

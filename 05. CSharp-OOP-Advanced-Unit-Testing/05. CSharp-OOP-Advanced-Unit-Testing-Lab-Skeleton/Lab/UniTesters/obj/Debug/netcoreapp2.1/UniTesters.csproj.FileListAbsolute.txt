@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\bin\Debug\netcoreapp2.1\UniTesters.deps.json
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\bin\Debug\netcoreapp2.1\UniTesters.runtimeconfig.json
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\bin\Debug\netcoreapp2.1\UniTesters.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\bin\Debug\netcoreapp2.1\UniTesters.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\bin\Debug\netcoreapp2.1\UniTesters.pdb
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\obj\Debug\netcoreapp2.1\UniTesters.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\obj\Debug\netcoreapp2.1\UniTesters.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\obj\Debug\netcoreapp2.1\UniTesters.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\obj\Debug\netcoreapp2.1\UniTesters.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\obj\Debug\netcoreapp2.1\UniTesters.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTesters\obj\Debug\netcoreapp2.1\UniTesters.pdb

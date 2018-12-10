@@ -1,0 +1,15 @@
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\bin\Debug\netcoreapp2.1\UniTestersTests.deps.json
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\bin\Debug\netcoreapp2.1\UniTestersTests.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\obj\Debug\netcoreapp2.1\UniTestersTests.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\obj\Debug\netcoreapp2.1\UniTestersTests.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\obj\Debug\netcoreapp2.1\UniTestersTests.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\obj\Debug\netcoreapp2.1\UniTestersTests.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\bin\Debug\netcoreapp2.1\UniTestersTests.pdb
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\obj\Debug\netcoreapp2.1\UniTestersTests.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\obj\Debug\netcoreapp2.1\UniTestersTests.pdb
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\bin\Debug\netcoreapp2.1\UniTesters.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\bin\Debug\netcoreapp2.1\UniTesters.pdb
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\UniTestersTests\obj\Debug\netcoreapp2.1\UniTestersTests.csproj.CopyComplete

@@ -1,0 +1,9 @@
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\bin\Debug\netcoreapp2.1\AxeTests.deps.json
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\bin\Debug\netcoreapp2.1\AxeTests.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\bin\Debug\netcoreapp2.1\AxeTests.pdb
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\obj\Debug\netcoreapp2.1\AxeTests.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\obj\Debug\netcoreapp2.1\AxeTests.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\obj\Debug\netcoreapp2.1\AxeTests.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\obj\Debug\netcoreapp2.1\AxeTests.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\obj\Debug\netcoreapp2.1\AxeTests.dll
+E:\C-OOP-Advanced---2018\05. CSharp-OOP-Advanced-Unit-Testing\05. CSharp-OOP-Advanced-Unit-Testing-Lab-Skeleton\Lab\AxeTests\obj\Debug\netcoreapp2.1\AxeTests.pdb
