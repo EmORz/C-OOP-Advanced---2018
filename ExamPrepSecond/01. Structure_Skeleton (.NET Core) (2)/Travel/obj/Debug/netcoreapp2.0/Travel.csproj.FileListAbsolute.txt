@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\obj\Debug\netcoreapp2.0\Travel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+C:\Users\User\Desktop\ExamPrepSecond\01. Structure_Skeleton (.NET Core) (2)\Travel\obj\Debug\netcoreapp2.0\Travel.pdb
