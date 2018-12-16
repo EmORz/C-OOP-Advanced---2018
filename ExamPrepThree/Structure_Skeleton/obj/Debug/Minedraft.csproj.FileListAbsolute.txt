@@ -1,0 +1,7 @@
+E:\ExamPrepThree\Structure_Skeleton\bin\Debug\Minedraft.exe.config
+E:\ExamPrepThree\Structure_Skeleton\bin\Debug\Minedraft.exe
+E:\ExamPrepThree\Structure_Skeleton\bin\Debug\Minedraft.pdb
+E:\ExamPrepThree\Structure_Skeleton\obj\Debug\Minedraft.csprojAssemblyReference.cache
+E:\ExamPrepThree\Structure_Skeleton\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
+E:\ExamPrepThree\Structure_Skeleton\obj\Debug\Minedraft.exe
+E:\ExamPrepThree\Structure_Skeleton\obj\Debug\Minedraft.pdb
