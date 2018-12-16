@@ -1,0 +1,25 @@
+﻿RegisterSet TestSet Short
+SignUpPerformer Gosho 21 Guitar Microphone
+SignUpPerformer Pesho 23 Drums
+SignUpPerformer Ivan 20 Microphone
+AddPerformerToSet Ivan TestSet
+AddPerformerToSet Gosho InvalidSet
+AddPerformerToSet InvalidPerformer InvalidSet
+RegisterSong SongName 03:00
+RegisterSong SongName2 02:00
+RegisterSong SongName3 10:00
+RegisterSong SongName4 00:01
+AddSongToSet SongName TestSet
+AddSongToSet SongName2 TestSet
+AddSongToSet SongName3 TestSet
+AddSongToSet SongName4 TestSet
+AddSongToSet InvalidSongName TestSet
+AddSongToSet SongName InvalidSet
+LetsRock
+RepairInstruments
+RegisterSet TestSet2 Short
+LetsRock
+SignUpPerformer Ivancho 20
+AddPerformerToSet Ivancho TestSet2
+LetsRock
+END
