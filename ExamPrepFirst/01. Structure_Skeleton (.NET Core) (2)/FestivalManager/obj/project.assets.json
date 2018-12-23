@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\FestivalManager.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\FestivalManager.csproj",
       "projectName": "FestivalManager",
-      "projectPath": "C:\\Users\\User\\Desktop\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\FestivalManager.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\FestivalManager.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

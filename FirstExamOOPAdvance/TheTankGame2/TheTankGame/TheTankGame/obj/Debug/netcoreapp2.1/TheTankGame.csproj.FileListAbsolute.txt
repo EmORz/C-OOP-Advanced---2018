@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.deps.json
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.json
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.dll
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.dll
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.pdb

@@ -5760,11 +5760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\Travel.Tests.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\Travel.Tests.csproj",
       "projectName": "Travel.Tests",
-      "projectPath": "C:\\Users\\User\\Desktop\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\Travel.Tests.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\Travel.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5783,8 +5783,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj"
+            "E:\\C-OOP-Advanced---2018\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj": {
+              "projectPath": "E:\\C-OOP-Advanced---2018\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj"
             }
           }
         }

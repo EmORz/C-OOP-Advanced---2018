@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.deps.json
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.json
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.dev.json
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.pdb
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfo.cs
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\User\Desktop\CurrentExam\01. Business Logic_Skeleton (.NET Core) (2)\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.pdb

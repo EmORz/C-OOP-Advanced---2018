@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj",
       "projectName": "Travel",
-      "projectPath": "C:\\Users\\User\\Desktop\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\ExamPrepSecond\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

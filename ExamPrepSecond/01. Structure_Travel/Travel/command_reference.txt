@@ -1,0 +1,14 @@
+﻿RegisterTrip {source} {destination} {planeType}
+RegisterPassenger {username}
+RegisterBag {username} {bagItem1} {bagItem2} {bagItemN}
+CheckIn {username} {tripId} {bagIndex1}, {bagIndex2}, {bagIndexN}
+TakeOff
+END
+
+
+•	Toothbrush – $3 value
+•	TravelKit – $30 value
+•	Jewelery – $300 value
+•	CellPhone – $700 value
+•	Laptop – $ 3000 value
+•	Colombian – $ 50000 value

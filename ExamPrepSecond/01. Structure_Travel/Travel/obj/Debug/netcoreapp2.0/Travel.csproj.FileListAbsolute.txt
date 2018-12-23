@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\obj\Debug\netcoreapp2.0\Travel.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+E:\C-OOP-Advanced---2018\ExamPrepSecond\01. Structure_Travel\Travel\obj\Debug\netcoreapp2.0\Travel.pdb

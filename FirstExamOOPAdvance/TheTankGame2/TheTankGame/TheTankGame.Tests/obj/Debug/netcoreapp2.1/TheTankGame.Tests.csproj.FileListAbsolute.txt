@@ -1,0 +1,17 @@
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.deps.json
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.json
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.dll
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+E:\C-OOP-Advanced---2018\FirstExamOOPAdvance\TheTankGame2\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CopyComplete

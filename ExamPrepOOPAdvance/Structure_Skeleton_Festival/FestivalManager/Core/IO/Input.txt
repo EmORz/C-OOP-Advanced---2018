@@ -1,0 +1,22 @@
+﻿RegisterSet Set1 Short
+RegisterSet Set2 Medium
+RegisterSet Set3 Long
+SignUpPerformer Pesho 23 Guitar
+SignUpPerformer Ivan 24 Drums
+SignUpPerformer Gosho 25 Microphone
+AddPerformerToSet Gosho Set1
+AddPerformerToSet Pesho Set1
+AddPerformerToSet Ivan Set2
+RegisterSong Song1 05:00
+RegisterSong Song2 05:00
+RegisterSong Song3 05:00
+RegisterSong Song4 00:01
+AddSongToSet Invalid Set1
+AddSongToSet Song2 Invalid
+AddSongToSet Song1 Set1
+AddSongToSet Song2 Set1
+AddSongToSet Song3 Set1
+AddSongToSet Song4 Set1
+LetsRock
+RepairInstruments
+END

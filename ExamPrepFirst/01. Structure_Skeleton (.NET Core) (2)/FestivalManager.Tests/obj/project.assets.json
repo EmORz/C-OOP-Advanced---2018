@@ -5760,11 +5760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager.Tests\\FestivalManager.Tests.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager.Tests\\FestivalManager.Tests.csproj",
       "projectName": "FestivalManager.Tests",
-      "projectPath": "C:\\Users\\User\\Desktop\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager.Tests\\FestivalManager.Tests.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager.Tests\\FestivalManager.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager.Tests\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5783,8 +5783,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\FestivalManager.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\FestivalManager.csproj"
+            "E:\\C-OOP-Advanced---2018\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\FestivalManager.csproj": {
+              "projectPath": "E:\\C-OOP-Advanced---2018\\ExamPrepFirst\\01. Structure_Skeleton (.NET Core) (2)\\FestivalManager\\FestivalManager.csproj"
             }
           }
         }

@@ -1,0 +1,11 @@
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csprojAssemblyReference.cache
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+E:\C-OOP-Advanced---2018\ExamPrepOOPAdvance\Structure_Skeleton_Festival\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb
