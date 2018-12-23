@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using CosmosX.Core.Contracts;
 using CosmosX.Entities.CommonContracts;
@@ -13,6 +14,8 @@ using CosmosX.Entities.Modules.Energy;
 using CosmosX.Entities.Modules.Energy.Contracts;
 using CosmosX.Entities.Reactors;
 using CosmosX.Entities.Reactors.Contracts;
+using CosmosX.Entities.Reactors.ReactorFactory;
+using CosmosX.Entities.Reactors.ReactorFactory.Contracts;
 using CosmosX.Utils;
 
 namespace CosmosX.Core
@@ -24,12 +27,15 @@ namespace CosmosX.Core
         private readonly IDictionary<int, IReactor> reactors;
         private readonly IDictionary<int, IModule> modules;
 
+        private IReactorFactory reactorFactory;
+
         public ReactorManager()
         {
             this.currentId = Constants.StartingId;
             this.identifiableObjects = new Dictionary<int, IIdentifiable>();
             this.reactors = new Dictionary<int, IReactor>();
             this.modules = new Dictionary<int, IModule>();
+            this.reactorFactory = new ReactorFactory();
         }
 
         public string ReactorCommand(IList<string> arguments)
@@ -40,17 +46,18 @@ namespace CosmosX.Core
 
             IContainer container = new ModuleContainer(moduleCapacity);
 
-            IReactor reactor = null;
+            IReactor reactor = this.reactorFactory.CreateReactor(reactorType, currentId, container, additionalParameter) ;
+            /* IReactor CreateReactor(string reactorTypeName, int id, IContainer moduleContainer, int additionalParameter);*/
 
-            switch (reactorType)
-            {
-                case "Cryo":
-                    reactor = new CryoReactor(this.currentId, container, additionalParameter);
-                    break;
-                case "Heat":
-                    reactor = new HeatReactor(this.currentId, container, additionalParameter);
-                    break;
-            }
+            //switch (reactorType)
+            //{
+            //    case "Cryo":
+            //        reactor = new CryoReactor(this.currentId, container, additionalParameter);
+            //        break;
+            //    case "Heat":
+            //        reactor = new HeatReactor(this.currentId, container, additionalParameter);
+            //        break;
+            //}
 
             this.currentId++;
 
@@ -67,6 +74,8 @@ namespace CosmosX.Core
             string moduleType = arguments[1];
             int additionalParameter = int.Parse(arguments[2]);
 
+
+
             switch (moduleType)
             {
                 case "CryogenRod":
@@ -82,6 +91,10 @@ namespace CosmosX.Core
                     this.modules.Add(heatProcessor.Id, heatProcessor);
                     break;
                 case "CooldownSystem":
+                    IAbsorbingModule coolDownSystem = new CooldownSystem(this.currentId, additionalParameter);
+                    this.reactors[reactorId].AddAbsorbingModule(coolDownSystem);
+                    this.identifiableObjects.Add(coolDownSystem.Id, coolDownSystem);
+                    this.modules.Add(coolDownSystem.Id, coolDownSystem);
                     break;
             }
 
@@ -96,22 +109,23 @@ namespace CosmosX.Core
             StringBuilder sb = new StringBuilder();
             if (this.reactors.ContainsKey(id))
             {
-                sb.AppendLine(reactors[id].GetType().Name+" - "+id);
+                sb.AppendLine(reactors[id].GetType().Name + " - " + id);
                 sb.AppendLine($"Energy Output: {reactors[id].TotalEnergyOutput}");
                 sb.AppendLine($"Heat Absorbing: {reactors[id].TotalHeatAbsorbing}");
                 sb.AppendLine($"Modules: {reactors[id].ModuleCount}");
             }
 
-            else if (this.modules.ContainsKey(id))
+            if (this.modules.ContainsKey(id))
             {
-                sb.AppendLine(modules[id].GetType().Name + " Module - " + id);
-                sb.AppendLine($"{modules.Values.GetType().Attributes}");
+                var temp = modules.Values.FirstOrDefault(x => x.Id == id);
+                sb.AppendLine(temp.ToString());
             }
             return sb.ToString().Trim();
         }
 
         public string ExitCommand(IList<string> arguments)
         {
+            StringBuilder sb = new StringBuilder();
             long cryoReactorCount = ReactorsCount("CryoReactor");
             long heatReactorCount = ReactorsCount("HeatReactor");
 
@@ -131,14 +145,14 @@ namespace CosmosX.Core
                 .Values
                 .Sum(r => r.TotalHeatAbsorbing);
 
-            string result = $"Cryo Reactors: {cryoReactorCount}\n" +
-                            $"Heat Reactors: {heatReactorCount}\n" +
-                            $"Energy Modules: {energyModulesCount}\n" +
-                            $"Absorbing Modules: {absorbingModulesCount}\n" +
-                            $"Total Energy Output: {totalEnergyOutput}\n" +
-                            $"Total Heat Absorbing: {totalHeatAbsorbing}\n";
+            sb.AppendLine($"Cryo Reactors: {cryoReactorCount}");
+            sb.AppendLine($"Heat Reactors: {heatReactorCount}");
+            sb.AppendLine($"Energy Modules: {energyModulesCount}");
+            sb.AppendLine($"Absorbing Modules: {absorbingModulesCount}");
+            sb.AppendLine($"Total Energy Output: {totalEnergyOutput}");
+            sb.AppendLine($"Total Heat Absorbing: {totalHeatAbsorbing}");
 
-            return result;
+            return sb.ToString().Trim();
         }
 
         private long ReactorsCount(string type)

@@ -1,8 +1,10 @@
-﻿namespace CosmosX.Entities.Modules.Absorbing
+﻿using CosmosX.Entities.Modules.Absorbing.Contracts;
+
+namespace CosmosX.Entities.Modules.Absorbing
 {
-    public class HeatProcessor : BaseAbsorbingModule
+    public class HeatProcessor : BaseAbsorbingModule, IAbsorbingModule
     {
-        public HeatProcessor(int id, int heatAbsorbing)
+        public HeatProcessor(int id, int heatAbsorbing) 
             : base(id, heatAbsorbing)
         {
         }

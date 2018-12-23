@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using CosmosX.Core.Contracts;
 
 namespace CosmosX.Core
@@ -22,22 +23,27 @@ namespace CosmosX.Core
             string[] commandArguments = arguments.Skip(1).ToArray();
 
             string result = string.Empty;
+            MethodInfo commands;
 
-            switch (command)
-            {
-                case "Reactor":
-                    result = this.reactorManager.ReactorCommand(commandArguments);
-                    break;
-                case "Module":
-                    result = this.reactorManager.ModuleCommand(commandArguments);
-                    break;
-                case "Report":
-                    result = this.reactorManager.ReportCommand(commandArguments);
-                    break;
-                case "Exit":
-                    result = this.reactorManager.ExitCommand(commandArguments);
-                    break;
-            }
+            commands = this.reactorManager.GetType().GetMethods().FirstOrDefault(x => x.Name == command+CommandNameSuffix);
+            result = (string) commands.Invoke(reactorManager, new object[] {commandArguments});
+
+
+            //switch (command)
+            //{
+            //    case "Reactor":
+            //        result = this.reactorManager.ReactorCommand(commandArguments);
+            //        break;
+            //    case "Module":
+            //        result = this.reactorManager.ModuleCommand(commandArguments);
+            //        break;
+            //    case "Report":
+            //        result = this.reactorManager.ReportCommand(commandArguments);
+            //        break;
+            //    case "Exit":
+            //        result = this.reactorManager.ExitCommand(commandArguments);
+            //        break;
+            //}
 
             return result;
         }

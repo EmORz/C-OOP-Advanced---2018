@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Text;
 using CosmosX.Core.Contracts;
 using CosmosX.IO.Contracts;
 
@@ -21,6 +22,7 @@ namespace CosmosX.Core
 
         public void Run()
         {
+            StringBuilder sb = new StringBuilder();
             while (isRunning)
             {
                 var input = reader.ReadLine();
@@ -30,10 +32,11 @@ namespace CosmosX.Core
                 }
                 List<string> inputArgs = new List<string>(input.Split());
                 var command = commandParser.Parse(inputArgs);
-
+                sb.AppendLine(command);
                 writer.WriteLine(command);
 
             }
+            //writer.WriteLine(sb.ToString());
 
 
         }

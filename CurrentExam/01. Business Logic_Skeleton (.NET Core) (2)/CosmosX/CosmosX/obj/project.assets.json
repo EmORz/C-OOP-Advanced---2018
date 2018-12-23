@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\CurrentExam\\01. Business Logic_Skeleton (.NET Core) (2)\\CosmosX\\CosmosX\\CosmosX.csproj",
+      "projectUniqueName": "E:\\C-OOP-Advanced---2018\\CurrentExam\\01. Business Logic_Skeleton (.NET Core) (2)\\CosmosX\\CosmosX\\CosmosX.csproj",
       "projectName": "CosmosX",
-      "projectPath": "C:\\Users\\User\\Desktop\\CurrentExam\\01. Business Logic_Skeleton (.NET Core) (2)\\CosmosX\\CosmosX\\CosmosX.csproj",
+      "projectPath": "E:\\C-OOP-Advanced---2018\\CurrentExam\\01. Business Logic_Skeleton (.NET Core) (2)\\CosmosX\\CosmosX\\CosmosX.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\CurrentExam\\01. Business Logic_Skeleton (.NET Core) (2)\\CosmosX\\CosmosX\\obj\\",
+      "outputPath": "E:\\C-OOP-Advanced---2018\\CurrentExam\\01. Business Logic_Skeleton (.NET Core) (2)\\CosmosX\\CosmosX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
