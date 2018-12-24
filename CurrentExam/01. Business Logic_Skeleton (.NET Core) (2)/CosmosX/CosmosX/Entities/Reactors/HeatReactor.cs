@@ -12,17 +12,32 @@ namespace CosmosX.Entities.Reactors
 
         public int HeatReductionIndex { get;}
 
-       
+        //Todo test this
+
         //public override long TotalEnergyOutput
         //{
         //    get
         //    {
-        //        if (this.TotalHeatAbsorbing < base.TotalEnergyOutput)
-        //        {
-        //            return  0;
-        //        }
+        //        long totalEnergyFromModules = base.TotalEnergyOutput * this.HeatReductionIndex;
 
-                
+
+        //        if (base.TotalHeatAbsorbing < TotalEnergyOutput)
+        //        {
+        //            TotalHeatAbsorbing = 0;
+        //        }
+        //        return totalEnergyFromModules;
+
+        //        //long totalEnergyFromModules = base.TotalEnergyOutput * this.CryoProductionIndex;
+
+        //        //if (totalEnergyFromModules > base.TotalHeatAbsorbing)
+        //        //{
+        //        //    totalEnergyFromModules = 0;
+        //        //}
+
+        //        //return totalEnergyFromModules;
+
+
+
         //    }
         //}
 
